@@ -1,4 +1,4 @@
-Feature: Belly
+Feature: googlemaps
 
 
   Scenario: a google map request
